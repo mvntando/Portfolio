@@ -17,7 +17,7 @@
               <path d="M19 0h-14a5 5 0 00-5 5v14a5 5 0 005 5h14a5 5 0 005-5v-14a5 5 0 00-5-5zm-11 19h-3v-9h3v9zm-1.5-10.3a1.8 1.8 0 01-1.8-1.8 1.8 1.8 0 013.6 0c0 1-.8 1.8-1.8 1.8zm13.5 10.3h-3v-4.8c0-1.2-.4-2-1.4-2s-1.6.9-1.6 2.1v4.7h-3v-9h2.9v1.2c.4-.8 1.3-1.4 2.4-1.4 1.8 0 3.1 1.2 3.1 3.7v5.5z"/>
             </svg>
           </a>
-          <a href="https://x.com/MvuseleloNtando" target="_blank" class="flex items-center justify-center rounded-full bg-white shadow p-3 hover:bg-gray-200 transition-colors duration-200" aria-label="Twitter">
+          <a href="https://x.com/mvntando_" target="_blank" class="flex items-center justify-center rounded-full bg-white shadow p-3 hover:bg-gray-200 transition-colors duration-200" aria-label="Twitter">
             <svg class="w-8 h-8 text-blue-400" fill="currentColor" viewBox="0 0 24 24">
               <path d="M24 4.56c-.88.39-1.82.65-2.81.77a4.92 4.92 0 0 0 2.16-2.71c-.95.56-2 .97-3.13 1.19a4.92 4.92 0 0 0-8.39 4.48c-4.09-.2-7.72-2.17-10.15-5.15a4.93 4.93 0 0 0-.66 2.48c0 1.71.87 3.22 2.19 4.1-.81-.03-1.57-.25-2.24-.62v.06c0 2.39 1.7 4.39 3.95 4.84-.41.11-.84.17-1.29.17-.31 0-.61-.03-.9-.08.61 1.91 2.39 3.3 4.5 3.34a9.87 9.87 0 0 1-6.1 2.1c-.4 0-.79-.02-1.18-.07a13.94 13.94 0 0 0 7.56 2.21c9.05 0 14-7.5 14-14 0-.21 0-.42-.02-.63a10.06 10.06 0 0 0 2.46-2.57z"/>
             </svg>
