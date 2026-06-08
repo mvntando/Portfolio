@@ -34,7 +34,7 @@
               Minimax
             </span>
           </div>
-          <a href="https://github.com/mvntando/dorse" target="_blank" class="inline-flex items-center gap-1 text-sm font-medium text-gray-700 hover:text-black decoration-gray-600 hover:decoration-gray-700 underline underline-offset-4 transition">
+          <a href="https://github.com/mvntando/dorse" target="_blank" class="inline-flex items-center gap-1 mt-3 text-sm font-medium text-gray-700 hover:text-black decoration-gray-600 hover:decoration-gray-700 underline underline-offset-4 transition">
             View on GitHub
             <span aria-hidden="true">↗</span>
           </a>
@@ -69,8 +69,8 @@
               SQLite3
             </span>
           </div>
-          <a href="https://weather50.vercel.app" target="_blank" class="inline-flex items-center gap-1 text-sm font-medium text-gray-700 hover:text-black decoration-gray-600 hover:decoration-gray-700 underline underline-offset-4 transition">
-            Live demo
+          <a href="https://weather50.vercel.app" target="_blank" class="inline-flex items-center gap-1 mt-3 text-sm font-medium text-gray-700 hover:text-black decoration-gray-600 hover:decoration-gray-700 underline underline-offset-4 transition">
+            View Live Demo
             <span aria-hidden="true">↗</span>
           </a>
         </div>
@@ -103,7 +103,7 @@
               IoT
             </span>
           </div>
-          <a href="https://github.com/mvntando/ENowMesh" target="_blank" class="inline-flex items-center gap-1 text-sm font-medium text-gray-700 hover:text-black decoration-gray-600 hover:decoration-gray-700 underline underline-offset-4 transition">
+          <a href="https://github.com/mvntando/ENowMesh" target="_blank" class="inline-flex items-center gap-1 mt-3 text-sm font-medium text-gray-700 hover:text-black decoration-gray-600 hover:decoration-gray-700 underline underline-offset-4 transition">
             View on GitHub
             <span aria-hidden="true">↗</span>
           </a>
@@ -152,7 +152,7 @@
                 SQLite3
               </span>
             </div>
-            <a href="https://github.com/mvntando/Nodes-dashboard" target="_blank" class="inline-flex items-center gap-1 text-sm font-medium text-gray-700 hover:text-black decoration-gray-600 hover:decoration-gray-700 underline underline-offset-4 transition">
+            <a href="https://github.com/mvntando/Nodes-dashboard" target="_blank" class="inline-flex items-center gap-1 mt-3 text-sm font-medium text-gray-700 hover:text-black decoration-gray-600 hover:decoration-gray-700 underline underline-offset-4 transition">
               View on GitHub
               <span aria-hidden="true">↗</span>
             </a>
@@ -185,7 +185,7 @@
                 PWM
               </span>
             </div>
-            <a href="https://github.com/mvntando/Pwm" target="_blank" class="inline-flex items-center gap-1 text-sm font-medium text-gray-700 hover:text-black decoration-gray-600 hover:decoration-gray-700 underline underline-offset-4 transition">
+            <a href="https://github.com/mvntando/Pwm" target="_blank" class="inline-flex items-center gap-1 mt-3 text-sm font-medium text-gray-700 hover:text-black decoration-gray-600 hover:decoration-gray-700 underline underline-offset-4 transition">
               View on GitHub
               <span aria-hidden="true">↗</span>
             </a>
@@ -218,7 +218,7 @@
                 Portfolio
               </span>
             </div>
-            <a href="https://github.com/mvntando/Portfolio" target="_blank" class="inline-flex items-center gap-1 text-sm font-medium text-gray-700 hover:text-black decoration-gray-600 hover:decoration-gray-700 underline underline-offset-4 transition">
+            <a href="https://github.com/mvntando/Portfolio" target="_blank" class="inline-flex items-center gap-1 mt-3 text-sm font-medium text-gray-700 hover:text-black decoration-gray-600 hover:decoration-gray-700 underline underline-offset-4 transition">
               View on GitHub
               <span aria-hidden="true">↗</span>
             </a>

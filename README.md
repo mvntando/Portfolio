@@ -24,4 +24,4 @@ A personal portfolio website built with Vue.js. Showcases my projects, skills, e
 
 ```bash
 npm install
-npm run serve
+npm run dev

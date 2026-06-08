@@ -1,5 +1,5 @@
 // run server, build project
-npm run serve
+npm run dev
 npm run build
 
 // Tailwind
