@@ -15,7 +15,7 @@
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-5">
               <path stroke-linecap="round" stroke-linejoin="round" d="M8.25 3v1.5M4.5 8.25H3m18 0h-1.5M4.5 12H3m18 0h-1.5m-15 3.75H3m18 0h-1.5M8.25 19.5V21M12 3v1.5m0 15V21m3.75-18v1.5m0 15V21m-9-1.5h10.5a2.25 2.25 0 0 0 2.25-2.25V6.75a2.25 2.25 0 0 0-2.25-2.25H6.75A2.25 2.25 0 0 0 4.5 6.75v10.5a2.25 2.25 0 0 0 2.25 2.25Zm.75-12h9v9h-9v-9Z" />
             </svg>
-            <h3 class="font-semibold">Chess Bot</h3>
+            <h3 class="font-semibold">Chess Engine</h3>
           </div>
           <p class="text-gray-700 mb-4">
             A chess bot built with Python, it uses alpha-beta pruning for move selection and a simple evaluation function. It can play against human opponents or other bots.
@@ -77,33 +77,33 @@
       </div>
 
       <!-- Project 3 -->
-      <div class="bg-gray-100 rounded-xl overflow-hidden border border-gray-300">
-        <img src="../assets/imgs/mesh.jpg" alt="ESP32-NOW Mesh Library" class="w-full h-40 object-cover">
+      <div class="bg-gray-100 rounded-xl overflow-hidden  border border-gray-300">
+        <img src="../assets/imgs/lo-ra.jpg" alt="Weather App" class="w-full h-40 object-cover">
         <div class="p-5">
           <div class="flex items-center gap-3 mb-2">
-            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-5">
-              <path stroke-linecap="round" stroke-linejoin="round" d="M7.217 10.907a2.25 2.25 0 1 0 0 2.186m0-2.186c.18.324.283.696.283 1.093s-.103.77-.283 1.093m0-2.186 9.566-5.314m-9.566 7.5 9.566 5.314m0 0a2.25 2.25 0 1 0 3.935 2.186 2.25 2.25 0 0 0-3.935-2.186Zm0-12.814a2.25 2.25 0 1 0 3.933-2.185 2.25 2.25 0 0 0-3.933 2.185Z" />
+            <svg fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-5">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622 1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244" />
             </svg>
-            <h3 class="font-semibold">ESP32-NOW Mesh Library</h3>
+            <h3 class="font-semibold">LoRa App</h3>
           </div>
           <p class="text-gray-700 mb-4">
-            A lightweight mesh network library using ESP-NOW protocol. Enables multi-hop communication for IoT and distributed systems without WiFi infrastructure.
+            Vue 3 dashboard for monitoring LoRa sensor nodes. Streams live sensor values from Firestore, raises alerts when thresholds are crossed, and shows per-node historical charts.
           </p>
-          <div class="flex flex-wrap gap-2 mb-4 text-xs font-medium justify-center">
+          <div class="flex flex-wrap gap-2 mb-4 justify-center text-xs font-medium">
             <span class="px-3 py-1 rounded-full text-gray-900 border border-gray-500">
-              C++
+              Firebase
             </span>
-            <span class="px-3 py-1 text-xs rounded-full text-green-800 border border-green-400">
+            <span class="px-3 py-1 rounded-full  text-green-800 border border-green-400">
+              Vue 3
+            </span>
+            <span class="px-3 py-1 rounded-full  text-blue-800 border border-blue-400">
               ESP32
             </span>
-            <span class="px-3 py-1 text-xs rounded-full text-blue-800 border border-blue-400">
-              ESP-NOW
-            </span>
-            <span class="px-3 py-1 text-xs rounded-full text-orange-800 border border-orange-400">
-              IoT
+            <span class="px-3 py-1 rounded-full  text-orange-800 border border-orange-400">
+              C++
             </span>
           </div>
-          <a href="https://github.com/mvntando/ENowMesh" target="_blank" class="inline-flex items-center gap-1 mt-3 text-sm font-medium text-gray-700 hover:text-black decoration-gray-600 hover:decoration-gray-700 underline underline-offset-4 transition">
+          <a href="https://github.com/mvntando/LoRa" target="_blank" class="inline-flex items-center gap-1 mt-3 text-sm font-medium text-gray-700 hover:text-black decoration-gray-600 hover:decoration-gray-700 underline underline-offset-4 transition">
             View on GitHub
             <span aria-hidden="true">↗</span>
           </a>
@@ -127,32 +127,31 @@
       <div v-if="showMore" class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 mt-12 gap-12">
         <!-- Project 4 -->
         <div class="bg-gray-100 rounded-xl overflow-hidden border border-gray-300">
-          <img src="../assets/imgs/dashboard.png" alt="Traffic Light Dashboard" class="w-full h-40 object-cover">
+          <img src="../assets/imgs/portfolio.png" alt="Portfolio Website" class="w-full h-40 object-cover">
           <div class="p-5">
             <div class="flex items-center gap-3 mb-2">
-              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-5">
-                <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6A2.25 2.25 0 0 1 6 3.75h2.25A2.25 2.25 0 0 1 10.5 6v2.25a2.25 2.25 0 0 1-2.25 2.25H6a2.25 2.25 0 0 1-2.25-2.25V6ZM3.75 15.75A2.25 2.25 0 0 1 6 13.5h2.25a2.25 2.25 0 0 1 2.25 2.25V18a2.25 2.25 0 0 1-2.25 2.25H6A2.25 2.25 0 0 1 3.75 18v-2.25ZM13.5 6a2.25 2.25 0 0 1 2.25-2.25H18A2.25 2.25 0 0 1 20.25 6v2.25A2.25 2.25 0 0 1 18 10.5h-2.25a2.25 2.25 0 0 1-2.25-2.25V6ZM13.5 15.75a2.25 2.25 0 0 1 2.25-2.25H18a2.25 2.25 0 0 1 2.25 2.25V18A2.25 2.25 0 0 1 18 20.25h-2.25A2.25 2.25 0 0 1 13.5 18v-2.25Z" />
+              <svg class="size-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <circle cx="12" cy="12" r="10"></circle>
+                <line x1="2" y1="12" x2="22" y2="12"></line>
+                <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path>
               </svg>
-              <h3 class="font-semibold">Traffic Light Dashboard</h3>
+              <h3 class="font-semibold">Portfolio Website</h3>
             </div>
             <p class="text-gray-700 mb-4">
-              Electron-Vue desktop app showing real-time traffic light states on a Leaflet map, enables remote control of traffic lights. Data pulled from a local Sqlite3 DB.
+              A responsive site built with Vue.js and Tailwind CSS, live on Vercel, presenting my projects, personal work, and ongoing development experiments.
             </p>
             <div class="flex flex-wrap gap-2 mb-4 justify-center text-xs font-medium">
-              <span class="px-3 py-1 rounded-full text-gray-900 border border-gray-500">
-                Electron
-              </span>
               <span class="px-3 py-1 rounded-full text-green-800 border border-green-400">
                 Vue.js
               </span>
               <span class="px-3 py-1 rounded-full text-blue-800 border border-blue-400">
-                Leaflet
+                Tailwind CSS
               </span>
               <span class="px-3 py-1 rounded-full text-orange-800 border border-orange-400">
-                SQLite3
+                Portfolio
               </span>
             </div>
-            <a href="https://github.com/mvntando/Nodes-dashboard" target="_blank" class="inline-flex items-center gap-1 mt-3 text-sm font-medium text-gray-700 hover:text-black decoration-gray-600 hover:decoration-gray-700 underline underline-offset-4 transition">
+            <a href="https://github.com/mvntando/Portfolio" target="_blank" class="inline-flex items-center gap-1 mt-3 text-sm font-medium text-gray-700 hover:text-black decoration-gray-600 hover:decoration-gray-700 underline underline-offset-4 transition">
               View on GitHub
               <span aria-hidden="true">↗</span>
             </a>
@@ -193,37 +192,6 @@
         </div>
 
         <!-- Project 6 -->
-        <div class="bg-gray-100 rounded-xl overflow-hidden border border-gray-300">
-          <img src="../assets/imgs/portfolio.png" alt="Portfolio Website" class="w-full h-40 object-cover">
-          <div class="p-5">
-            <div class="flex items-center gap-3 mb-2">
-              <svg class="size-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-                <circle cx="12" cy="12" r="10"></circle>
-                <line x1="2" y1="12" x2="22" y2="12"></line>
-                <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path>
-              </svg>
-              <h3 class="font-semibold">Portfolio Website</h3>
-            </div>
-            <p class="text-gray-700 mb-4">
-              A responsive site built with Vue.js and Tailwind CSS, live on Vercel, presenting my projects, personal work, and ongoing development experiments.
-            </p>
-            <div class="flex flex-wrap gap-2 mb-4 justify-center text-xs font-medium">
-              <span class="px-3 py-1 rounded-full text-green-800 border border-green-400">
-                Vue.js
-              </span>
-              <span class="px-3 py-1 rounded-full text-blue-800 border border-blue-400">
-                Tailwind CSS
-              </span>
-              <span class="px-3 py-1 rounded-full text-orange-800 border border-orange-400">
-                Portfolio
-              </span>
-            </div>
-            <a href="https://github.com/mvntando/Portfolio" target="_blank" class="inline-flex items-center gap-1 mt-3 text-sm font-medium text-gray-700 hover:text-black decoration-gray-600 hover:decoration-gray-700 underline underline-offset-4 transition">
-              View on GitHub
-              <span aria-hidden="true">↗</span>
-            </a>
-          </div>
-        </div>
       </div>
     </transition>
   </div>

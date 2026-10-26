@@ -68,18 +68,17 @@
 
           <p class="mt-1 text-sm text-gray-700">
             Bachelor of Electronic Engineering
-            <span class="text-gray-500">(In Progress)</span>
           </p>
 
           <ul class="mt-3 text-sm text-gray-600 space-y-1.5 max-w-prose">
-            <li>Studying digital logic, embedded firmware, and electrical system design</li>
-            <li>Focus on embedded systems, hardware–software integration, and software development</li>
+            <li>Studied electrical system design, digital logic and embedded firmware</li>
+            <li>Focused on embedded systems, hardware-software integration, and software development</li>
           </ul>
         </div>
 
         <div class="text-left">
           <p class="text-base font-medium text-gray-900">
-            Harvard University (edX)
+            edX (Harvard)
             <span class="font-normal text-gray-500">| Online</span>
           </p>
 
